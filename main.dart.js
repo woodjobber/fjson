@@ -72072,7 +72072,7 @@ $S:0}
 A.a2V.prototype={
 $0(){var s,r,q,p,o,n,m=this.a,l=m.d
 if(l.a.a.length===0)return
-r=A.hG("\\[.*?\\] flutter[^:]*: |\\[.*?\\] .*\\/flutter[^:]*: ",!0,!1)
+r=A.hG("\\[.*?\\] flutter[^:]*: |\\[.*?\\] .*\\/flutter[^:]*: |.*\\/flutter[^:]*: ",!0,!1)
 q=l.a.a
 s=A.aaD(q,r,"")
 p=s
