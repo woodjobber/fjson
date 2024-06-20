@@ -1,6 +1,6 @@
 {
-    "name": "Json修复器",
-    "short_name": "Json修复器",
+    "name": "ASF日志修复器",
+    "short_name": "ASF日志修复器",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
