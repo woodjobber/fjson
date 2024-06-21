@@ -74479,7 +74479,7 @@ $0(){var s,r,q,p,o,n,m,l,k,j=this.a
 j.f=!1
 p=j.d
 if(p.a.a.length===0)return
-o=A.hU("\\[.*?\\] flutter[^:]*: |\\[.*?\\] .*\\/flutter[^:]*: |.*\\/flutter[^:]*: |.*flutter[^:]*: ",!0,!1)
+o=A.hU("\\[.*?\\] flutter[^:]*:\\s*|\\[.*?\\] .*\\/flutter[^:]*:\\s*|.*\\/flutter[^:]*:\\s*|.*flutter[^:]*:\\s*",!0,!1)
 n=p.a.a
 s=A.ad_(n,o,"")
 m=s
@@ -79807,7 +79807,7 @@ B.QU=new A.e1("\u590d\u5236\u7f8e\u5316Json\u683c\u5f0f",null,null,null,null,nul
 B.QV=new A.e1("\u6062\u590d\u539f\u59cb\u503c",null,null,null,null,null,null,null,null)
 B.QW=new A.e1("\u6253\u5f00json.cn",null,null,null,null,null,null,null,null)
 B.NL=new A.j(!0,B.j,null,null,null,null,null,B.aO,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QX=new A.e1("ASF Json\u65e5\u5fd7\u4fee\u590d\u5668",null,B.NL,null,null,null,null,null,null)
+B.QX=new A.e1("ASF\u63a7\u5236\u53f0Json\u65e5\u5fd7\u4fee\u590d\u5668",null,B.NL,null,null,null,null,null,null)
 B.QZ=new A.e1("\u6e05\u7a7a\u8bb0\u5f55",null,null,null,null,null,null,null,null)
 B.BH=new A.m(4294962158)
 B.BD=new A.m(4294954450)
