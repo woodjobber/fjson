@@ -74479,7 +74479,7 @@ $0(){var s,r,q,p,o,n,m,l,k,j=this.a
 j.f=!1
 p=j.d
 if(p.a.a.length===0)return
-o=A.hU("\\[.{0,16}\\]\\s?I?/?flutter(.*?):(\\s)?|I?/?flutter([^\\[:]*?):(\\s)?",!0,!1)
+o=A.hU("\\[.{0,16}\\]\\s?I?/?flutter.*?:\\s?|I?/?flutter[^:\\[\\]]*:\\s?",!0,!1)
 n=p.a.a
 s=A.ad_(n,o,"")
 m=s
