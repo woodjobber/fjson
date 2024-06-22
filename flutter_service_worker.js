@@ -4,13 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "43eb3ef1a5d1f985ecd09b2ce30dfcaf",
-"index.html": "d4c58905667ed393bdb4abd84ed522eb",
-"/": "d4c58905667ed393bdb4abd84ed522eb",
-"main.dart.js": "99fe7d50c25d8471befaf3b8cc8a16b3",
+"index.html": "503a9d4134e7f23be9b390124a567daf",
+"/": "503a9d4134e7f23be9b390124a567daf",
+"main.dart.js": "d8abe92a68cde55b837bc1c439fa3510",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "icons/favicon-16x16.png": "4a571da03c7a7d6ebbdb2665bbfcde99",
 "icons/favicon.ico": "31f4cb5e591777358def3321c65feee0",
-"icons/apple-icon.png": "47b7444c608cee7a322bd5c9fac731ce",
+"icons/apple-icon.png": "7d67b84cc9d4a73dfd3fe9fa8df4dae4",
 "icons/apple-icon-144x144.png": "7d67b84cc9d4a73dfd3fe9fa8df4dae4",
 "icons/android-icon-192x192.png": "a277996d65fbd051b29279cdd9724cc6",
 "icons/apple-icon-precomposed.png": "47b7444c608cee7a322bd5c9fac731ce",
